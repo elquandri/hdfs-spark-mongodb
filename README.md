@@ -3,7 +3,7 @@ ensure good connectivity between Apche HDFS and Apache Spark and MongoDB "Read c
 
 
 #	Application Interaction Spark/HDFS/MongoDB
-Cette application a pour but tester les interactions entre Apache Spark et Apache HDFS et Redis, elle permet :
+Cette application a pour but tester les interactions entre Apache Spark et Apache HDFS et MongoDB, elle permet :
 
 -	La lecture d’un fichier csv depuis HDFS. 
 -	Faire des traitements Spark sur le fichier csv créer.
